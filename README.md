@@ -25,8 +25,8 @@ The color of the highlighted border, using the format 0xAARRGGBB, default value 
 `./demo [chrome window id]`
 ![test1](https://github.com/samxfb/linux-x11-highlight-window/blob/main/test1.png)
 
-`./demo [chrome window id]`
+`./demo [chrome window id] 15`
 ![test2](https://github.com/samxfb/linux-x11-highlight-window/blob/main/test2.png)
 
-`./demo [chrome window id]`
+`./demo [chrome window id] 6 -1 0xFFFFFF00`
 ![test3](https://github.com/samxfb/linux-x11-highlight-window/blob/main/test3.png)
